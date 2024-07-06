@@ -1,0 +1,1 @@
+print ("This course should be a little easier for me.")
